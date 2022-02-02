@@ -1,0 +1,6 @@
+module Pods_rn_drawertabnav_boilerplate_rn_drawertabnav_boilerplateTests {
+  umbrella header "Pods-rn_drawertabnav_boilerplate-rn_drawertabnav_boilerplateTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
