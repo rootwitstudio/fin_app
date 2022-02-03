@@ -1,9 +1,5 @@
 <h1>Finance App (Aspire)</h1>
 
-![img.png](img.png)
-
-![img_1.png](img_1.png)
-
 ## Installation
 
 You can simply clone the project
@@ -65,4 +61,9 @@ git clone https://github.com/rootwitstudio/fin_app.git
 - Need to add props interface for all components
 - Need to write unit testing for all component
 - Need to add custom font (already custom icomoon icon added)
+
+
+![img.png](img.png) ![img_1.png](img_1.png)
+
+
 
