@@ -1,20 +1,39 @@
+<h1>Finance App (Aspire)</h1>
 
+## Installation
 
-React Native Boilerplate with Drawer, Bottom Bar and Stack Navigation.
-===================
-![HeaderImage](front.gif "HeaderImage")
+You can simply clone the project
 
-I made this simple boilerplate with react-navigation to save some time for me in the future. Hope it will help you too.
+```ruby
+git clone https://github.com/rootwitstudio/fin_app.git
+```
 
-----------
-> **Features:**
+## Step By Step Guide
 
-> - Implemented redux store.
-> - Basic authentication flow (shows 2 different navigators depending on Redux Store value)
+### Install Pods (iOS Only)
 
+- yarn install
+- cd ios && pod install
+- cd .. && react-native run-ios/android
 
+# What's Included?
 
+- Redux
+- Redux Saga
+- React Navigation V6
+- HTTP Network Management (Axios)
+- Generic React Hooks API Request Service
+- prettier & Eslint
+- Jest (Unit Testing)
+- Typescript
+- Reactotron (Debugging)
+- React Hooks
 
+<hr>
 
+# Components
 
+- Debit Card
+- Switch
+- Progress Bar
 

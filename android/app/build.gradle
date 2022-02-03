@@ -131,7 +131,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.rn_drawertabnav_boilerplate"
+        applicationId "com.fin.app"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

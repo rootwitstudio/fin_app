@@ -1,0 +1,6 @@
+module Pods_fin_finTests {
+  umbrella header "Pods-fin-finTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

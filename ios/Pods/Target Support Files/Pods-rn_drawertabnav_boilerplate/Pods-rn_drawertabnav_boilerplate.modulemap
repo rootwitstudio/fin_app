@@ -1,6 +1,0 @@
-module Pods_rn_drawertabnav_boilerplate {
-  umbrella header "Pods-rn_drawertabnav_boilerplate-umbrella.h"
-
-  export *
-  module * { export * }
-}
